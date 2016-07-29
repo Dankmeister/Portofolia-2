@@ -1,0 +1,68 @@
+Body {
+	margin:0 auto;
+}
+#header {
+	position:relative;
+}
+#Top {
+	background:black;
+	height:800px;
+	width:1910px;
+}
+#Logo {
+	position:absolute;
+	background:white;
+	width:150px;
+	height:50px;
+	top:40px;
+	left:390px;
+}
+.Itemi div{
+	position:absolute;
+	display:inline;
+	left:690px;
+	top:50px;
+}
+.Itemi div a{
+	color:white;
+	float:left;
+	width:100px;
+}
+#Contact {
+	position:absolute;
+	color:white;
+	top:50px;
+	left:1440px;
+}
+#Naslov {
+	position:absolute;
+	left:390px;
+	top:262px;
+	color:white;
+	width:320px;
+}
+#Tekst1 {
+	position:absolute;
+	top:384px;
+	left:390px;
+	color:gray;
+	float:left;
+	width:350px;
+}
+#Button {
+	position:absolute;
+	left:390px;
+	top:540px;
+	background:red;
+	width:196px;
+	height:40px;
+	color:white;
+}
+#main{
+	position:relative;
+}
+#Sredina {
+	background:white;
+	height:671px;
+	width:1910px;
+}

@@ -1,0 +1,16 @@
+body {
+	position:relative;
+}
+#Logo {
+	background:grey;
+	width:200px;
+	height:100px;
+}
+.box {
+	height:50px;
+	width:200px;
+}
+.add {
+	height:50px;
+	width:50px;
+}
